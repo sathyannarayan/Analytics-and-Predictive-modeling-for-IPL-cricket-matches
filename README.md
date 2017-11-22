@@ -1,4 +1,4 @@
-# Analytics and Predictive-modeling for PL cricket matches
+# Analytics and Predictive-modeling for IPL(Premier League) cricket matches
 ### Programming Language: Python 3.6
 ### IDE: Jupyter Notebook(Azure Big Data)
 ### input: CSV file
